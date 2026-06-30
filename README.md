@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swati
 - 👀 I’m interested in learning to code in various programming languages
-- 🌱 I code sometimes for data refining needed for researching
+- 🌱 I code sometimes for data refining needed for academic research purposes
 - 💞️ Currently I am not as such looking for anyone to collaborate with but will be happy to in the future once I get the hang of things. 
 - 📫 You can reach me through my Email : 20phoenix03@gmail.com
 
